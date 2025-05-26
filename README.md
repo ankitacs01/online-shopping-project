@@ -54,4 +54,4 @@ This is a **SQL-based backend database system** for an Online Shopping Platform 
 ## 👩‍💻 Developed By
 
 **Ankita**  
-MCA | SQL & Data Enthusiast  
+ SQL & Data Enthusiast  
